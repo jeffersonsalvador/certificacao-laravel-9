@@ -1,10 +1,24 @@
-# certificacao-laravel-9
+# Certificação Laravel 9
 
-| Assunto                                                                        | Tempo estimado |
-|--------------------------------------------------------------------------------|:--------------:|
-| **01 - Architecture**                                                          |   **01:07**    |
-| [Request Lifecycle](https://laravel.com/docs/9.x/lifecycle)                    |     00:15      |
-| [Service Container Binding and Resolution](https://laravel.com/docs/9.x/container) |     00:30      |
-| [Service Providers](https://laravel.com/docs/9.x/providers)                    |     00:10      |
-| [Facades](https://laravel.com/docs/9.x/facades)                                |     00:12      |
-| HTTP Verbs                                 |                |
+Esse repositório é um guia de estudos pessoal usado para a cetificação em Laravel.
+O conteúdo é baseado no que foi descrito no próprio site da certificação https://laravelcert.com/topics-covered.
+
+Abaixo segue uma tabela com todos os tópicos abordados e o tempo estimado de leitura para cada um.
+
+*projeto em andamento*
+
+| Assunto                                                                                                                   | Tempo estimado |
+|---------------------------------------------------------------------------------------------------------------------------|:--------------:|
+| **01 - Architecture**                                                                                                     |   **01:07**    |
+| <a href="https://laravel.com/docs/9.x/lifecycle" target="_blank">Request Lifecycle</a>                                    |
+| <a href="https://laravel.com/docs/9.x/container" target="_blank">Service Container Binding and Resolution</a>             |
+| <a href="https://laravel.com/docs/9.x/providers" target="_blank">Service Providers</a>                                    |
+| <a href="https://laravel.com/docs/9.x/facades" target="_blank">Facades</a>                                                |
+| <a href="https://laravel.com/docs/9.x/" target="_blank">HTTP Verbs</a>                                                    |
+| **02 - Artisan console**                                                                                                  |   **00:20**    |
+| <a href="https://laravel.com/docs/9.x/artisan#generating-commands" target="_blank">Generating Commands</a>                |
+| <a href="https://laravel.com/docs/9.x/artisan#command-io" target="_blank">Command I/O</a>                                 |
+| <a href="https://laravel.com/docs/9.x/artisan#registering-commands" target="_blank">Registering Commands</a>              |
+| <a href="https://laravel.com/docs/9.x/artisan#programmatically-executing-commands" target="_blank">Executing Commands</a> |
+| **03 - Caching**                                                                                                          |   **00:12**    |
+| **04 - Collections**                                                                                                      |   **01:20**    |
