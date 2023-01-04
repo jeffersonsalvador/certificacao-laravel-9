@@ -20,5 +20,9 @@ Abaixo segue uma tabela com todos os tópicos abordados e o tempo estimado de le
 | <a href="https://laravel.com/docs/9.x/artisan#command-io" target="_blank">Command I/O</a>                                 |
 | <a href="https://laravel.com/docs/9.x/artisan#registering-commands" target="_blank">Registering Commands</a>              |
 | <a href="https://laravel.com/docs/9.x/artisan#programmatically-executing-commands" target="_blank">Executing Commands</a> |
-| **03 - Caching**                                                                                                          |   **00:12**    |
-| **04 - Collections**                                                                                                      |   **01:20**    |
+| **03 - Caching**                                                                                                          |    **00:12**   |
+| <a href="https://laravel.com/docs/9.x/cache#configuration" target="_blank">Drivers / Configuration</a> |
+| <a href="https://laravel.com/docs/9.x/cache#storing-items-in-the-cache" target="_blank">Storing Items</a> |
+| <a href="https://laravel.com/docs/9.x/cache#retrieving-items-from-the-cache" target="_blank">Retrieving Items</a> |
+| <a href="https://laravel.com/docs/9.x/cache#cache-tags" target="_blank">Cache Tags</a> |
+| <a href="https://laravel.com/docs/9.x/cache#adding-custom-cache-drivers" target="_blank">Creating Custom Drivers</a> |
