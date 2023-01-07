@@ -5,14 +5,12 @@ O conteúdo é baseado no que foi descrito no próprio site da certificação ht
 
 Abaixo segue uma tabela com todos os tópicos abordados e o tempo estimado de leitura para cada um.
 
-*projeto em andamento*
-
-[laravel]: https://laravel.com/docs/9.x 
+*projeto em andamento* 
 
 | Assunto                                                                                                                   | Tempo estimado |
 |---------------------------------------------------------------------------------------------------------------------------|:--------------:|
 | **01 - Architecture**                                                                                                     |   **01:07**    |
-| [Request Lifecycle]([laravel]//lifecycle)                                                                                           |
+| <a href="https://laravel.com/docs/9.x/lifecycle" target="_blank">Request Lifecycle</a>                                    |
 | <a href="https://laravel.com/docs/9.x/container" target="_blank">Service Container Binding and Resolution</a>             |
 | <a href="https://laravel.com/docs/9.x/providers" target="_blank">Service Providers</a>                                    |
 | <a href="https://laravel.com/docs/9.x/facades" target="_blank">Facades</a>                                                |
@@ -33,4 +31,10 @@ Abaixo segue uma tabela com todos os tópicos abordados e o tempo estimado de le
 | <a href="https://laravel.com/docs/9.x/collections#available-methods" target="_blank">Collections Methods</a>              |
 | <a href="https://laravel.com/docs/9.x/collections#higher-order-messages" target="_blank">Higher-order Messages</a>        |
 | **05 - Controllers**                                                                                                      |   **00:22**    |
-| <a href="https://laravel.com/docs/9.x/collections#higher-order-messages" target="_blank">Higher-order Messages</a>        |
+| <a href="https://laravel.com/docs/9.x/controllers#basic-controllers" target="_blank">Defining Controllers</a>        |
+| Controller Namespacing        |    --:-- |
+| <a href="https://laravel.com/docs/9.x/controllers#single-action-controllers" target="_blank">Single Action Controllers</a>        |
+| <a href="https://laravel.com/docs/9.x/controllers#controller-middleware" target="_blank">Middleware</a>        |
+| <a href="https://laravel.com/docs/9.x/controllers#resource-controllers" target="_blank">Resource Controllers</a>        |
+| <a href="https://laravel.com/docs/9.x/controllers#dependency-injection-and-controllers" target="_blank">Dependency Injection</a>        |
+| Route Caching        |  --:-- |
