@@ -7,12 +7,12 @@ Abaixo segue uma tabela com todos os tópicos abordados e o tempo estimado de le
 
 *projeto em andamento*
 
-[laravel_site]: https://laravel.com/docs/9.x 
+[laravel]: https://laravel.com/docs/9.x 
 
 | Assunto                                                                                                                   | Tempo estimado |
 |---------------------------------------------------------------------------------------------------------------------------|:--------------:|
 | **01 - Architecture**                                                                                                     |   **01:07**    |
-| <a href="[laravel_site]/lifecycle" target="_blank">Request Lifecycle</a>                                                  |
+| <a href="${laravel}/lifecycle" target="_blank">Request Lifecycle</a>                                                      |
 | <a href="https://laravel.com/docs/9.x/container" target="_blank">Service Container Binding and Resolution</a>             |
 | <a href="https://laravel.com/docs/9.x/providers" target="_blank">Service Providers</a>                                    |
 | <a href="https://laravel.com/docs/9.x/facades" target="_blank">Facades</a>                                                |
