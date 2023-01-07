@@ -7,14 +7,16 @@ Abaixo segue uma tabela com todos os tópicos abordados e o tempo estimado de le
 
 *projeto em andamento*
 
+[laravel_site]: https://laravel.com/docs/9.x 
+
 | Assunto                                                                                                                   | Tempo estimado |
 |---------------------------------------------------------------------------------------------------------------------------|:--------------:|
 | **01 - Architecture**                                                                                                     |   **01:07**    |
-| <a href="https://laravel.com/docs/9.x/lifecycle" target="_blank">Request Lifecycle</a>                                    |
+| <a href="[laravel_site]/lifecycle" target="_blank">Request Lifecycle</a>                                                  |
 | <a href="https://laravel.com/docs/9.x/container" target="_blank">Service Container Binding and Resolution</a>             |
 | <a href="https://laravel.com/docs/9.x/providers" target="_blank">Service Providers</a>                                    |
 | <a href="https://laravel.com/docs/9.x/facades" target="_blank">Facades</a>                                                |
-| <a href="https://laravel.com/docs/9.x/" target="_blank">HTTP Verbs</a>                                                    |
+| HTTP Verbs                                                                                                                |     --:--      |
 | **02 - Artisan console**                                                                                                  |   **00:20**    |
 | <a href="https://laravel.com/docs/9.x/artisan#generating-commands" target="_blank">Generating Commands</a>                |
 | <a href="https://laravel.com/docs/9.x/artisan#command-io" target="_blank">Command I/O</a>                                 |
@@ -29,4 +31,6 @@ Abaixo segue uma tabela com todos os tópicos abordados e o tempo estimado de le
 | **04 - Collections**                                                                                                      |   **02:06**    |
 | <a href="https://laravel.com/docs/9.x/collections#introduction" target="_blank">Creating / Extending Collections</a>      |
 | <a href="https://laravel.com/docs/9.x/collections#available-methods" target="_blank">Collections Methods</a>              |
-| <a href="https://laravel.com/docs/9.x/collections#higher-order-messages" target="_blank">Higher-order Messages</a>              |
+| <a href="https://laravel.com/docs/9.x/collections#higher-order-messages" target="_blank">Higher-order Messages</a>        |
+| **05 - Controllers**                                                                                                      |   **00:22**    |
+| <a href="https://laravel.com/docs/9.x/collections#higher-order-messages" target="_blank">Higher-order Messages</a>        |
