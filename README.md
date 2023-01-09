@@ -43,3 +43,11 @@ Abaixo segue uma tabela com todos os tópicos abordados e o tempo estimado de le
 | <a href="https://laravel.com/docs/9.x/pagination" target="_blank">Pagination</a>                                                 |
 | <a href="https://laravel.com/docs/9.x/migrations" target="_blank">Migrations</a>                                                 |
 | <a href="https://laravel.com/docs/9.x/seeding" target="_blank">Seeding</a>                                                       |
+| **07 - Eloquent ORM**                                                                                                            |   **02:15**    |
+| <a href="https://laravel.com/docs/9.x/eloquent#eloquent-model-conventions" target="_blank">Conventions</a>                       |
+| <a href="https://laravel.com/docs/9.x/eloquent-relationships" target="_blank">Relationships</a>                                  |
+| <a href="https://laravel.com/docs/9.x/eloquent-collections" target="_blank">Eloquent Collections</a>                             |
+| <a href="https://laravel.com/docs/9.x/eloquent-mutators" target="_blank">Mutators / Accessors</a>                             |
+| <a href="https://laravel.com/docs/9.x/eloquent-resources" target="_blank">API Resources</a>                             |
+| <a href="https://laravel.com/docs/9.x/eloquent-serialization" target="_blank">Serialization</a>                             |
+| <a href="https://laravel.com/docs/9.x/eloquent#query-scopes" target="_blank">Scopes</a>                             |
