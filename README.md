@@ -52,7 +52,12 @@ Abaixo segue uma tabela com todos os tópicos abordados e o tempo estimado de le
 | <a href="https://laravel.com/docs/9.x/eloquent-serialization" target="_blank">Serialization</a>                                  |
 | <a href="https://laravel.com/docs/9.x/eloquent#query-scopes" target="_blank">Scopes</a>                                          |
 | **08 - Events**                                                                                                                  |   **00:14**    |
-| <a href="https://laravel.com/docs/9.x/events#generating-events-and-listeners" target="_blank">Registering Events / Listeners</a>                                          |
-| <a href="https://laravel.com/docs/9.x/events#queued-event-listeners" target="_blank">Queued Listeners</a>                                          |
-| <a href="https://laravel.com/docs/9.x/events#dispatching-events" target="_blank">Dispatching Events</a>                                          |
-| <a href="https://laravel.com/docs/9.x/events#event-subscribers" target="_blank">Subscribing to Events</a>                                          |
+| <a href="https://laravel.com/docs/9.x/events#generating-events-and-listeners" target="_blank">Registering Events / Listeners</a> |
+| <a href="https://laravel.com/docs/9.x/events#queued-event-listeners" target="_blank">Queued Listeners</a>                        |
+| <a href="https://laravel.com/docs/9.x/events#dispatching-events" target="_blank">Dispatching Events</a>                          |
+| <a href="https://laravel.com/docs/9.x/events#event-subscribers" target="_blank">Subscribing to Events</a>                        |
+| **09 - File Storage**                                                                                                            |   **00:14**    |
+| <a href="https://laravel.com/docs/9.x/filesystem#configuration" target="_blank">Configuration / Drivers</a>                      |
+| <a href="https://laravel.com/docs/9.x/filesystem#retrieving-files" target="_blank">Retrieving Files</a>                          |
+| <a href="https://laravel.com/docs/9.x/filesystem#storing-files" target="_blank">Storing Files</a>                                |
+| <a href="https://laravel.com/docs/9.x/filesystem#custom-filesystems" target="_blank">Custom Filesystems</a>                                |
