@@ -1,4 +1,10 @@
-# Certificação Laravel 9
+# Laravel 9 Certification 🇺🇸
+This repository is a personal study guide used for certification in Laravel.
+The content is based on what was described on the certification website https://laravelcert.com/topics-covered.
+
+Below is a table with all the topics covered and the estimated reading time for each one.
+
+# Certificação Laravel 9 🇧🇷
 
 Esse repositório é um guia de estudos pessoal usado para a cetificação em Laravel.
 O conteúdo é baseado no que foi descrito no próprio site da certificação https://laravelcert.com/topics-covered.
@@ -7,7 +13,7 @@ Abaixo segue uma tabela com todos os tópicos abordados e o tempo estimado de le
 
 *projeto em andamento* 
 
-| Assunto                                                                                                                          | Tempo estimado |
+| Topics                                                                                                                           | Estimated time |
 |----------------------------------------------------------------------------------------------------------------------------------|:--------------:|
 | **01 - Architecture**                                                                                                            |   **01:07**    |
 | <a href="https://laravel.com/docs/9.x/lifecycle" target="_blank">Request Lifecycle</a>                                           |
@@ -60,4 +66,4 @@ Abaixo segue uma tabela com todos os tópicos abordados e o tempo estimado de le
 | <a href="https://laravel.com/docs/9.x/filesystem#configuration" target="_blank">Configuration / Drivers</a>                      |
 | <a href="https://laravel.com/docs/9.x/filesystem#retrieving-files" target="_blank">Retrieving Files</a>                          |
 | <a href="https://laravel.com/docs/9.x/filesystem#storing-files" target="_blank">Storing Files</a>                                |
-| <a href="https://laravel.com/docs/9.x/filesystem#custom-filesystems" target="_blank">Custom Filesystems</a>                                |
+| <a href="https://laravel.com/docs/9.x/filesystem#custom-filesystems" target="_blank">Custom Filesystems</a>                      |
