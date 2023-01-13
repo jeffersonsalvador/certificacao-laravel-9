@@ -67,3 +67,7 @@ Abaixo segue uma tabela com todos os tópicos abordados e o tempo estimado de le
 | <a href="https://laravel.com/docs/9.x/filesystem#retrieving-files" target="_blank">Retrieving Files</a>                          |
 | <a href="https://laravel.com/docs/9.x/filesystem#storing-files" target="_blank">Storing Files</a>                                |
 | <a href="https://laravel.com/docs/9.x/filesystem#custom-filesystems" target="_blank">Custom Filesystems</a>                      |
+| **10 - Frontend**                                                                                                                |   **00:00**    |
+| <a href="https://laravel.com/docs/9.x/blade" target="_blank">Blade Templating</a>                                                |
+| <a href="https://laravel.com/docs/9.x/localization#main-content" target="_blank">Localization</a>                                |
+| Asset Compilation                                |
