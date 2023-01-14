@@ -67,7 +67,13 @@ Abaixo segue uma tabela com todos os tópicos abordados e o tempo estimado de le
 | <a href="https://laravel.com/docs/9.x/filesystem#retrieving-files" target="_blank">Retrieving Files</a>                          |
 | <a href="https://laravel.com/docs/9.x/filesystem#storing-files" target="_blank">Storing Files</a>                                |
 | <a href="https://laravel.com/docs/9.x/filesystem#custom-filesystems" target="_blank">Custom Filesystems</a>                      |
-| **10 - Frontend**                                                                                                                |   **00:00**    |
+| **10 - Frontend**                                                                                                                |   **01:43**    |
 | <a href="https://laravel.com/docs/9.x/blade" target="_blank">Blade Templating</a>                                                |
 | <a href="https://laravel.com/docs/9.x/localization#main-content" target="_blank">Localization</a>                                |
-| Asset Compilation                                |
+| Asset Compilation                                                                                                                |
+| **11 - Helper Methods**                                                                                                          |   **01:00**    |
+| <a href="https://laravel.com/docs/9.x/helpers#arrays-and-objects-method-list" target="_blank">Arrays / Objects</a>               |
+| <a href="https://laravel.com/docs/9.x/helpers#paths-method-list" target="_blank">Paths</a>                                       |
+| <a href="https://laravel.com/docs/9.x/helpers#strings-method-list" target="_blank">Strings</a>                                   |
+| <a href="https://laravel.com/docs/9.x/helpers#urls-method-list" target="_blank">URLs</a>                                         |
+| <a href="https://laravel.com/docs/9.x/helpers#miscellaneous-method-list" target="_blank">Miscellaneous</a>                       |
