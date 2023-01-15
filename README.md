@@ -77,3 +77,7 @@ Abaixo segue uma tabela com todos os tópicos abordados e o tempo estimado de le
 | <a href="https://laravel.com/docs/9.x/helpers#strings-method-list" target="_blank">Strings</a>                                   |
 | <a href="https://laravel.com/docs/9.x/helpers#urls-method-list" target="_blank">URLs</a>                                         |
 | <a href="https://laravel.com/docs/9.x/helpers#miscellaneous-method-list" target="_blank">Miscellaneous</a>                       |
+| **12 - Logging**                                                                                                                 |   **--:--**    |
+| <a href="https://laravel.com/docs/9.x/logging#configuration" target="_blank">Configuration</a>                                   |
+| <a href="https://laravel.com/docs/9.x/logging#writing-to-specific-channels" target="_blank">Writing to Specific Channels</a>                                   |
+| <a href="https://laravel.com/docs/9.x/logging#creating-custom-channels-via-factories" target="_blank">Creating Custom Channels</a>                                   |
