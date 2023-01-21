@@ -89,6 +89,20 @@ Abaixo segue uma tabela com todos os tópicos abordados e o tempo estimado de le
 | <a href="https://laravel.com/docs/9.x/mail#markdown-mailables" target="_blank">Markdown</a>                                        |
 | <a href="https://laravel.com/docs/9.x/mail#mail-and-local-development" target="_blank">Local Development</a>                       |
 | **14 - Middleware**                                                                                                                |   **00:07**    |
-| <a href="https://laravel.com/docs/9.x/middleware#defining-middleware" target="_blank">Defining Middleware</a>                       |
-| <a href="https://laravel.com/docs/9.x/middleware#registering-middleware" target="_blank">Registering Middleware</a>                       |
-| <a href="https://laravel.com/docs/9.x/middleware#middleware-parameters" target="_blank">Middleware Parameters</a>                       |
+| <a href="https://laravel.com/docs/9.x/middleware#defining-middleware" target="_blank">Defining Middleware</a>                      |
+| <a href="https://laravel.com/docs/9.x/middleware#registering-middleware" target="_blank">Registering Middleware</a>                |
+| <a href="https://laravel.com/docs/9.x/middleware#middleware-parameters" target="_blank">Middleware Parameters</a>                  |
+| **15 - Notifications**                                                                                                             |   **00:33**    |
+| <a href="https://laravel.com/docs/9.x/notifications#generating-notifications" target="_blank">Creating Notifications</a>           |
+| <a href="https://laravel.com/docs/9.x/notifications#sending-notifications" target="_blank">Sending Notifications</a>               |
+| <a href="https://laravel.com/docs/9.x/notifications#mail-notifications" target="_blank">Mail Notifications</a>                     |
+| <a href="https://laravel.com/docs/9.x/notifications#markdown-mail-notifications" target="_blank">Markdown</a>                      |
+| <a href="https://laravel.com/docs/9.x/notifications#database-notifications" target="_blank">Database Notifications</a>             |
+| <a href="https://laravel.com/docs/9.x/notifications#broadcast-notifications" target="_blank">Broadcast Notifications</a>           |
+| <a href="https://laravel.com/docs/9.x/notifications#sms-notifications" target="_blank">SMS Notifications</a>                       |
+| <a href="https://laravel.com/docs/9.x/notifications#slack-notifications" target="_blank">Slack Notifications</a>                   |
+| <a href="https://laravel.com/docs/9.x/notifications#custom-channels" target="_blank">Custom Channels</a>                           |
+| **16 - PHP**                                                                                                                       |   **--:--**    |
+| Version 7.1+                           |
+| Composer                           |
+| Autoloading Standards                          |
