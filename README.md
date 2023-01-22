@@ -103,6 +103,27 @@ Abaixo segue uma tabela com todos os tópicos abordados e o tempo estimado de le
 | <a href="https://laravel.com/docs/9.x/notifications#slack-notifications" target="_blank">Slack Notifications</a>                   |
 | <a href="https://laravel.com/docs/9.x/notifications#custom-channels" target="_blank">Custom Channels</a>                           |
 | **16 - PHP**                                                                                                                       |   **--:--**    |
-| Version 7.1+                           |
-| Composer                           |
-| Autoloading Standards                          |
+| Version 7.1+                                                                                                                       |
+| Composer                                                                                                                           |
+| Autoloading Standards                                                                                                              |
+| **17 - Package Development**                                                                                                       |   **00:10**    |
+| <a href="https://laravel.com/docs/9.x/packages#package-discovery" target="_blank">Discovery</a>                                    |
+| <a href="https://laravel.com/docs/9.x/packages#service-providers" target="_blank">Service Providers</a>                            |
+| <a href="https://laravel.com/docs/9.x/packages#resources" target="_blank">Resources</a>                                            |
+| <a href="https://laravel.com/docs/9.x/packages#commands" target="_blank">Commands</a>                                              |
+| <a href="https://laravel.com/docs/9.x/packages#public-assets" target="_blank">Assets</a>                                           |
+| <a href="https://laravel.com/docs/9.x/packages#publishing-file-groups" target="_blank">Publishing File Groups</a>                  |
+| **18 - Queues**                                                                                                                    |   **00:44**    |
+| <a href="https://laravel.com/docs/9.x/queues#driver-prerequisites" target="_blank">Drivers / Configurations</a>                    |
+| <a href="https://laravel.com/docs/9.x/queues#creating-jobs" target="_blank">Creating Jobs</a>                                      |
+| <a href="https://laravel.com/docs/9.x/queues#dispatching-jobs" target="_blank">Dispatching Jobs</a>                                |
+| <a href="https://laravel.com/docs/9.x/queues#running-the-queue-worker" target="_blank">Running Queue Workers</a>                   |
+| <a href="https://laravel.com/docs/9.x/queues#supervisor-configuration" target="_blank">Supervisor</a>                              |
+| <a href="https://laravel.com/docs/9.x/queues#dealing-with-failed-jobs" target="_blank">Handling Failed Jobs</a>                    |
+| **19 - Routing**                                                                                                                   |   **00:27**    |
+| <a href="https://laravel.com/docs/9.x/routing#redirect-routes" target="_blank">Redirects</a>                    |
+| <a href="https://laravel.com/docs/9.x/routing#route-parameters" target="_blank">Route Parameters</a>                    |
+| <a href="https://laravel.com/docs/9.x/routing#named-routes" target="_blank">Named Routes</a>                    |
+| <a href="https://laravel.com/docs/9.x/routing#route-groups" target="_blank">Route Groups</a>                    |
+| <a href="https://laravel.com/docs/9.x/routing#route-model-binding" target="_blank">Route Model Binding</a>                    |
+| <a href="https://laravel.com/docs/9.x/routing#rate-limiting" target="_blank">Rate Limiting</a>                    |
