@@ -121,9 +121,15 @@ Abaixo segue uma tabela com todos os tópicos abordados e o tempo estimado de le
 | <a href="https://laravel.com/docs/9.x/queues#supervisor-configuration" target="_blank">Supervisor</a>                              |
 | <a href="https://laravel.com/docs/9.x/queues#dealing-with-failed-jobs" target="_blank">Handling Failed Jobs</a>                    |
 | **19 - Routing**                                                                                                                   |   **00:27**    |
-| <a href="https://laravel.com/docs/9.x/routing#redirect-routes" target="_blank">Redirects</a>                    |
-| <a href="https://laravel.com/docs/9.x/routing#route-parameters" target="_blank">Route Parameters</a>                    |
-| <a href="https://laravel.com/docs/9.x/routing#named-routes" target="_blank">Named Routes</a>                    |
-| <a href="https://laravel.com/docs/9.x/routing#route-groups" target="_blank">Route Groups</a>                    |
-| <a href="https://laravel.com/docs/9.x/routing#route-model-binding" target="_blank">Route Model Binding</a>                    |
-| <a href="https://laravel.com/docs/9.x/routing#rate-limiting" target="_blank">Rate Limiting</a>                    |
+| <a href="https://laravel.com/docs/9.x/routing#redirect-routes" target="_blank">Redirects</a>                                       |
+| <a href="https://laravel.com/docs/9.x/routing#route-parameters" target="_blank">Route Parameters</a>                               |
+| <a href="https://laravel.com/docs/9.x/routing#named-routes" target="_blank">Named Routes</a>                                       |
+| <a href="https://laravel.com/docs/9.x/routing#route-groups" target="_blank">Route Groups</a>                                       |
+| <a href="https://laravel.com/docs/9.x/routing#route-model-binding" target="_blank">Route Model Binding</a>                         |
+| <a href="https://laravel.com/docs/9.x/routing#rate-limiting" target="_blank">Rate Limiting</a>                                     |
+| **20 - Security**                                                                                                                  |   **00:57**    |
+| <a href="https://laravel.com/docs/9.x/authentication" target="_blank">Authentication</a>                                     |
+| <a href="https://laravel.com/docs/9.x/authorization" target="_blank">Authorization</a>                                     |
+| <a href="https://laravel.com/docs/9.x/encryption" target="_blank">Encryption</a>                                     |
+| <a href="https://laravel.com/docs/9.x/hashing" target="_blank">Hashing</a>                                     |
+| <a href="https://laravel.com/docs/9.x/csrf#main-content" target="_blank">CSRF Protection</a>                                     |
