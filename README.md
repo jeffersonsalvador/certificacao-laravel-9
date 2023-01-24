@@ -128,8 +128,17 @@ Abaixo segue uma tabela com todos os tópicos abordados e o tempo estimado de le
 | <a href="https://laravel.com/docs/9.x/routing#route-model-binding" target="_blank">Route Model Binding</a>                         |
 | <a href="https://laravel.com/docs/9.x/routing#rate-limiting" target="_blank">Rate Limiting</a>                                     |
 | **20 - Security**                                                                                                                  |   **00:57**    |
-| <a href="https://laravel.com/docs/9.x/authentication" target="_blank">Authentication</a>                                     |
-| <a href="https://laravel.com/docs/9.x/authorization" target="_blank">Authorization</a>                                     |
-| <a href="https://laravel.com/docs/9.x/encryption" target="_blank">Encryption</a>                                     |
-| <a href="https://laravel.com/docs/9.x/hashing" target="_blank">Hashing</a>                                     |
-| <a href="https://laravel.com/docs/9.x/csrf#main-content" target="_blank">CSRF Protection</a>                                     |
+| <a href="https://laravel.com/docs/9.x/authentication" target="_blank">Authentication</a>                                           |
+| <a href="https://laravel.com/docs/9.x/authorization" target="_blank">Authorization</a>                                             |
+| <a href="https://laravel.com/docs/9.x/encryption" target="_blank">Encryption</a>                                                   |
+| <a href="https://laravel.com/docs/9.x/hashing" target="_blank">Hashing</a>                                                         |
+| <a href="https://laravel.com/docs/9.x/csrf#main-content" target="_blank">CSRF Protection</a>                                       |
+| **21 - Sessions**                                                                                                                  |   **00:08**    |
+| <a href="https://laravel.com/docs/9.x/session#configuration" target="_blank">Configuration</a>                                     |
+| <a href="https://laravel.com/docs/9.x/session#retrieving-data" target="_blank">Retrieving Data</a>                                 |
+| <a href="https://laravel.com/docs/9.x/session#storing-data" target="_blank">Storing Data</a>                                       |
+| <a href="https://laravel.com/docs/9.x/session#flash-data" target="_blank">Flash Data</a>                                           |
+| <a href="https://laravel.com/docs/9.x/session#deleting-data" target="_blank">Deleting Data</a>                                     |
+| <a href="https://laravel.com/docs/9.x/session#adding-custom-session-drivers" target="_blank">Custom Drivers</a>                    |
+| **22 - Task Scheduling**                                                                                                           |   **00:06**    |
+| **23 - Testing**                                                                                                                   |   **--:--**    |
