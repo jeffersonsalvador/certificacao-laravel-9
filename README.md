@@ -141,6 +141,12 @@ Abaixo segue uma tabela com todos os tópicos abordados e o tempo estimado de le
 | <a href="https://laravel.com/docs/9.x/session#deleting-data" target="_blank">Deleting Data</a>                                     |
 | <a href="https://laravel.com/docs/9.x/session#adding-custom-session-drivers" target="_blank">Custom Drivers</a>                    |
 | **22 - Task Scheduling**                                                                                                           |   **00:06**    |
+| <a href="https://laravel.com/docs/9.x/scheduling#scheduling-artisan-commands" target="_blank">Scheduling Artisan Commands</a>                    |
+| <a href="https://laravel.com/docs/9.x/scheduling#scheduling-queued-jobs" target="_blank">Scheduling Queue Jobs</a>                    |
+| <a href="https://laravel.com/docs/9.x/scheduling#scheduling-shell-commands" target="_blank">Scheduling Shell Commands</a>                    |
+| <a href="https://laravel.com/docs/9.x/scheduling#timezones" target="_blank">Time Zones</a>                    |
+| <a href="https://laravel.com/docs/9.x/scheduling#preventing-task-overlaps" target="_blank">Preventing Task Overlaps</a>                    |
+| <a href="https://laravel.com/docs/9.x/scheduling#maintenance-mode" target="_blank">Maintenance Mode</a>                    |
 | **23 - Testing**                                                                                                                   |   **01:06**    |
 | **24 - URL Generation**                                                                                                            |   **00:06**    |
 | **25 - Validation**                                                                                                                |   **--:--**    |
