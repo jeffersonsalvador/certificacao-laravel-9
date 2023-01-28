@@ -148,6 +148,14 @@ Abaixo segue uma tabela com todos os tópicos abordados e o tempo estimado de le
 | <a href="https://laravel.com/docs/9.x/scheduling#preventing-task-overlaps" target="_blank">Preventing Task Overlaps</a>                    |
 | <a href="https://laravel.com/docs/9.x/scheduling#maintenance-mode" target="_blank">Maintenance Mode</a>                    |
 | **23 - Testing**                                                                                                                   |   **01:06**    |
+| <a href="https://laravel.com/docs/9.x/testing#main-content" target="_blank">Creating / Running Tests</a>                    |
+| <a href="https://laravel.com/docs/9.x/http-tests#main-content" target="_blank">HTTP Tests</a>                    |
+| <a href="https://laravel.com/docs/9.x/http-tests#session-and-authentication" target="_blank">Session / Authentication</a>                    |
+| <a href="https://laravel.com/docs/9.x/http-tests#testing-file-uploads" target="_blank">Testing File Uploads</a>                    |
+| <a href="https://laravel.com/docs/9.x/database-testing#available-assertions" target="_blank">Available Assertions</a>                    |
+| <a href="https://laravel.com/docs/9.x/dusk" target="_blank">Browser Tests / Dusk</a>                    |
+| <a href="https://laravel.com/docs/9.x/database-testing#model-factories" target="_blank">Data Factories</a>                    |
+| <a href="https://laravel.com/docs/9.x/mocking" target="_blank">Fakes / Mocking</a>                    |
 | **24 - URL Generation**                                                                                                            |   **00:06**    |
 | **25 - Validation**                                                                                                                |   **--:--**    |
 | **26 - Views**                                                                                                                     |   **--:--**    |
