@@ -1,5 +1,9 @@
 # Laravel 9 Certification 🇺🇸
 This repository is a personal study guide used for certification in Laravel.
+
+Unfortunately since January 2023 the certification is no longer official, the partnership between Laravel.com and the company
+certifier (laravelcert.com) no longer exists, which is a shame. 
+
 The content is based on what was described on the certification website https://laravelcert.com/topics-covered.
 
 Below is a table with all the topics covered and the estimated reading time for each one.
@@ -7,11 +11,17 @@ Below is a table with all the topics covered and the estimated reading time for 
 # Certificação Laravel 9 🇧🇷
 
 Esse repositório é um guia de estudos pessoal usado para a cetificação em Laravel.
-O conteúdo é baseado no que foi descrito no próprio site da certificação https://laravelcert.com/topics-covered.
+
+Infelizmente desde janeiro de 2023 a certificação não é mais oficial, a parceria entre a Laravel.com e a empresa
+certificadora (laravelcert.com) não existe mais, o que é uma pena.
+
+O conteúdo a ser estudado está descrito no site da certificação https://laravelcert.com/topics-covered.
 
 Abaixo segue uma tabela com todos os tópicos abordados e o tempo estimado de leitura para cada um.
 
-*projeto em andamento* 
+*projeto em andamento*
+
+<hr />
 
 | Topics                                                                                                                             | Estimated time |
 |------------------------------------------------------------------------------------------------------------------------------------|:--------------:|
