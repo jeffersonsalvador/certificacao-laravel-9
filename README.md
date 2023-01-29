@@ -157,6 +157,9 @@ Abaixo segue uma tabela com todos os tópicos abordados e o tempo estimado de le
 | <a href="https://laravel.com/docs/9.x/database-testing#model-factories" target="_blank">Data Factories</a>                    |
 | <a href="https://laravel.com/docs/9.x/mocking" target="_blank">Fakes / Mocking</a>                    |
 | **24 - URL Generation**                                                                                                            |   **00:06**    |
+| <a href="https://laravel.com/docs/9.x/urls#urls-for-named-routes" target="_blank">Named Routes</a>                    |
+| <a href="https://laravel.com/docs/9.x/urls#urls-for-controller-actions" target="_blank">Controller Actions</a>                    |
+| <a href="https://laravel.com/docs/9.x/urls#default-values" target="_blank">Default Values</a>                    |
 | **25 - Validation**                                                                                                                |   **--:--**    |
 | **26 - Views**                                                                                                                     |   **--:--**    |
 | **27 - Websockts**                                                                                                                 |   **--:--**    |
