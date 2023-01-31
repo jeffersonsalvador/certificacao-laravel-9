@@ -8,19 +8,6 @@ The content is based on what was described on the certification website https://
 
 Below is a table with all the topics covered and the estimated reading time for each one.
 
-# Certificação Laravel 9 🇧🇷
-
-Esse repositório é um guia de estudos pessoal usado para a cetificação em Laravel.
-
-Infelizmente desde janeiro de 2023 a certificação não é mais oficial, a parceria entre a Laravel.com e a empresa
-certificadora (laravelcert.com) não existe mais, o que é uma pena.
-
-O conteúdo a ser estudado está descrito no site da certificação https://laravelcert.com/topics-covered.
-
-Abaixo segue uma tabela com todos os tópicos abordados e o tempo estimado de leitura para cada um.
-
-*projeto em andamento*
-
 <hr />
 
 | Topics                                                                                                                             | Estimated time |
@@ -170,6 +157,11 @@ Abaixo segue uma tabela com todos os tópicos abordados e o tempo estimado de le
 | <a href="https://laravel.com/docs/9.x/urls#urls-for-named-routes" target="_blank">Named Routes</a>                    |
 | <a href="https://laravel.com/docs/9.x/urls#urls-for-controller-actions" target="_blank">Controller Actions</a>                    |
 | <a href="https://laravel.com/docs/9.x/urls#default-values" target="_blank">Default Values</a>                    |
-| **25 - Validation**                                                                                                                |   **--:--**    |
-| **26 - Views**                                                                                                                     |   **--:--**    |
-| **27 - Websockts**                                                                                                                 |   **--:--**    |
+| **25 - Validation**                                                                                                                |   **00:34**    |
+| <a href="https://laravel.com/docs/9.x/validation#form-request-validation" target="_blank">Form Requests</a>                    |
+| <a href="https://laravel.com/docs/9.x/validation#manually-creating-validators" target="_blank">Manually Creating Validators</a>                    |
+| <a href="https://laravel.com/docs/9.x/validation#working-with-error-messages" target="_blank">Error Messages</a>                    |
+| <a href="https://laravel.com/docs/9.x/validation#available-validation-rules" target="_blank">Validation Rules</a>                    |
+| <a href="https://laravel.com/docs/9.x/validation#conditionally-adding-rules" target="_blank">Custom Validation Rules</a>                    |
+| **26 - Views**                                                                                                                     |   **00:03**    |
+| **27 - Websockts**                                                                                                                 |   **00:08**    |
