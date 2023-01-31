@@ -1,4 +1,4 @@
-# Laravel 9 Certification 🇺🇸
+# Laravel 9 Certification
 This repository is a personal study guide used for certification in Laravel.
 
 Unfortunately since January 2023 the certification is no longer official, the partnership between Laravel.com and the company
