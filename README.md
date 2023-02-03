@@ -1,8 +1,10 @@
-# Laravel 9 Certification 🇺🇸
+# Laravel 9 Certification
 This repository is a personal study guide used for certification in Laravel.
 
-Unfortunately since January 2023 the certification is no longer official, the partnership between Laravel.com and the company
-certifier (laravelcert.com) no longer exists, which is a shame. 
+Unfortunately since January 2023 the certification is no [longer official](https://laravel-news.com/laravel-certification-program-is-no-longer-official), the partnership between Laravel.com and the company
+certifier (laravelcert.com) no longer exists, which is a pit. 
+
+I only found out about this after all the time invested in studying the documentation, which is not bad, after all the knowledge was acquired.
 
 The content is based on what was described on the certification website https://laravelcert.com/topics-covered.
 
