@@ -164,4 +164,12 @@ Below is a table with all the topics covered and the estimated reading time for 
 | <a href="https://laravel.com/docs/9.x/validation#available-validation-rules" target="_blank">Validation Rules</a>                    |
 | <a href="https://laravel.com/docs/9.x/validation#conditionally-adding-rules" target="_blank">Custom Validation Rules</a>                    |
 | **26 - Views**                                                                                                                     |   **00:03**    |
+| <a href="https://laravel.com/docs/9.x/views#creating-and-rendering-views" target="_blank">Creating Views</a>                    |
+| <a href="https://laravel.com/docs/9.x/views#passing-data-to-views" target="_blank">Passing Data to Views</a>                    |
+| <a href="https://laravel.com/docs/9.x/views#view-composers" target="_blank">View Composer</a>                    |
 | **27 - Websockts**                                                                                                                 |   **00:08**    |
+| <a href="https://laravel.com/docs/9.x/broadcasting#broadcasting-events" target="_blank">Broadcasting Events</a>                    |
+| <a href="https://laravel.com/docs/9.x/broadcasting#receiving-broadcasts" target="_blank">Receiving Events</a>                    |
+| <a href="https://laravel.com/docs/9.x/broadcasting#authorizing-channels" target="_blank">Broadcasting Channels</a>                    |
+| <a href="https://laravel.com/docs/9.x/broadcasting#presence-channels" target="_blank">Presence Channels</a>                    |
+| <a href="https://laravel.com/docs/9.x/broadcasting#client-events" target="_blank">Client Events</a>                    |
